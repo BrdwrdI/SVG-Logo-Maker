@@ -2,11 +2,11 @@
 
 ## Description
 
-
+I decided to pursue this project in an attempt to become more familiar with building a command line application.
 
 ## Installation
 
-
+simply download the code and enter into the cli 'node index.html'
 
 ## Usage
 
