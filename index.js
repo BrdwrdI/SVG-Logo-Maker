@@ -1,1 +1,3 @@
-console.log(hello);
+const CLI = require('./lib/cli');
+
+new CLI().run();
